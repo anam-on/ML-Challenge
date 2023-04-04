@@ -8,4 +8,4 @@ Distributed under the MIT License. See LICENSE.txt for more information.
 Contact
 Adnan Imamović - adnan.imamovic31@gmail.com
 
-Project Link: https://github.com/anam-on/MLChallenge
+Project Link: https://github.com/anam-on/ML-Challenge
