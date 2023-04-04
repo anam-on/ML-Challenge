@@ -3,3 +3,9 @@ In this repository, the functions for solving the ML Challenge are stored, in th
 
 # License
 Distributed under the MIT License. See LICENSE.txt for more information.
+
+# Contact
+Contact
+Adnan Imamović - adnan.imamovic31@gmail.com
+
+Project Link: https://github.com/anam-on/MLChallenge
