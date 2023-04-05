@@ -1,1 +1,1 @@
-This part of the challenge was not finished completely, but I decided to post it nevertheless
+This part of the challenge was not finished completely nor it was uploaded on time, but I decided to leave it here nevertheless
